@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">A Passionate Backend Developer from Colombia</h3>
+<h3 align="center"> Backend Developer from Colombia</h3>
 
 <h3 align="left">About Me:</h3>
 
