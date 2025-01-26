@@ -2,12 +2,7 @@
 <h3 align="center">A Passionate Backend Developer from Colombia</h3>
 
 <h3 align="left">About Me:</h3>
-<p align="left">
-  🚀 Software Developer<br>
-  🎸 Music Lover<br>
-  🌟 Passionate about Technology and Continuous Learning<br>
-  🌳 Nature Enthusiast
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
